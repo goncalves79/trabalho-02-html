@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2? family= Corben & display=swap');
+body{
+    background-image: url("imagens/image_2022-03-25_145414-1024x576-1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: olive;
+    border-radius: 10px;
+}
+abbr{
+    color: rgb(3, 10, 20);
+    font-size: xx-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #024959;
+    border:5px solid rgba(0, 0, 0, 0);
+    background-image: linear-gradient(to right,#F2E3D5,#024959);
+    margin-right: auto;
+}
+caption{
+    color: #030211;;  
+    font-size: xx-large;
+    border-color: collapse;
+    border: 5px solid black;
+    background-color: #024959;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align-last:center;
+    border-radius: 10px;
+}
+ul,ol{
+    columns:3;
+    color: rgb(1, 7, 6);
+    font-size: xx-large;
+    border-radius: 15px;
+    background-color:rgba(238, 231, 231, 0.247); 
+    border:5px solid black;
+    width: 1400px;
+    padding:10px;
+}
+a{
+    color: #020d73;
+}
+a:visited{
+    color: darkorange;
+}
+a:hover{
+    color: seagreen;
+}
+table{
+    border:solid black;
+    color: rgba(7, 7, 7, 0.973);
+    font-size: large;
+    text-align: center;
+    text-shadow: navy;
+    border-radius:10px;    
+    background-color: rgba(146, 142, 142, 0.473);
+    margin: auto;
+}
+th,td{
+    columns: 2;
+    border: 5px solid rgba(37, 15, 15, 0.938);
+    font-size:large;
+    border-radius:10px;
+    text-decoration: dashed;
+    text-align: center;
+    width: 1000px;
+}
+h1{
+    font-size: xx-large;
+    text-align-last:center;
+    background-color: #024959;
+    border-radius: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid black;
+}
+p{
+    color: rgb(3, 6, 24);;
+    font-size: x-large;
+    font-family: 'Corben', cursiva;
+    text-align:center;
+    border: 5px solid rgba(0, 0, 0, 0.459);
+    border-radius: 10px;
+    background-color:rgba(180, 237, 241, 0.116); 
+    text-shadow: #024959;
+    text-decoration: dashed;
+    padding-right: 5px;
+    
+}
+header{
+    background-color: rgba(red, green, blue, alpha);
+    text-align: center;
+    width: 600px;
+    margin:auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-family: 'Parisienne' cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right,#F2E3D5,#024959);
+    border: 5px solid black;
+}
+section{
+    background-color: rgba(red, green, blue, alpha);
+    margin-bottom: auto;
+    margin-top: auto;
+    width: 600px;
+    border: #024959;
+    text-align:center;
+    margin:auto;
+}
+img{
+    border-radius:10px;
+    text-decoration: dashed;
+    margin-bottom: auto;
+    border: 5px dashed rgba(230, 224, 233, 0.274);
+}
+main{
+    background-color: rgba(255, 250, 250, 0);
+    border-radius: 20px;
+    padding: 10px;
+    width: 600px;
+    margin: auto;
+}
+footer{
+    background-image:linear-gradient(to right, white,#06021d);
+    text-align:center;
+    border: 5px dashed black;
+}
+nav>a:hover{
+    background-color:rgba(187, 45, 20, 0.856);
+}
+nav>a:visited{
+    color: #020d73;
+}
+nav>a{
+    margin-bottom: 5px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 25px;
+    text-align: center;
+    border-radius: 10px;
+}
+nav{
+    text-align: center;
+}
